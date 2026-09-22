@@ -1,0 +1,333 @@
+
+
+
+@inproceedings{sears2003computers,
+  title={When computers fade: Pervasive computing and situationally-induced impairments and disabilities},
+  author={Sears, Andrew and Lin, Min and Jacko, Julie and Xiao, Yan},
+  booktitle={HCI international},
+  volume={2},
+  number={3},
+  pages={1298--1302},
+  year={2003}
+}
+@inproceedings{li2025estimating,
+  title={Estimating the effects of encumbrance and walking on mixed reality interaction},
+  author={Li, Tinghui and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
+  booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  pages={1--24},
+  year={2025}
+}
+@article{li2025estimating,
+  title={Estimating the effects of ambient noise on mixed reality interaction},
+  author={Li, Tinghui and Peng, Danyang and Velloso, Eduardo and Withana, Anusha and Minamizawa, Kouta and Sarsenbayeva, Zhanna},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={9},
+  number={4},
+  pages={1--34},
+  year={2025},
+  publisher={ACM New York, NY, USA}
+}
+@inproceedings{liu2025understanding,
+  title={Understanding and addressing ambient illumination as a situational impairment for digital devices},
+  author={Liu, Ruilin and Li, Tinghui and Sarsenbayeva, Zhanna},
+  booktitle={Proceedings of the 37th Australian Conference on Human-Computer Interaction},
+  pages={556--566},
+  year={2025}
+}
+@article{sarsenbayeva2019measuring,
+  title={Measuring the effects of stress on mobile interaction},
+  author={Sarsenbayeva, Zhanna and van Berkel, Niels and Hettiachchi, Danula and Jiang, Weiwei and Dingler, Tilman and Velloso, Eduardo and Kostakos, Vassilis and Goncalves, Jorge},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={3},
+  number={1},
+  pages={1--18},
+  year={2019},
+  publisher={ACM New York, NY, USA}
+}
+@article{sarsenbayeva2019situationally,
+  title={Situationally-Induced Impairments and Disabilities Research},
+  author={Sarsenbayeva, Zhanna and Kostakos, Vassilis and Goncalves, Jorge},
+  journal={arXiv preprint arXiv:1904.06128},
+  year={2019}
+}
+@inproceedings{li2025weight,
+  title={Weight-induced consumed endurance (WICE): A model to quantify shoulder fatigue with weighted objects},
+  author={Li, Tinghui and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
+  booktitle={Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--15},
+  year={2025}
+}
+@article{kirschbaum1993trier,
+  title={The ‘Trier Social Stress Test’--a tool for investigating psychobiological stress responses in a laboratory setting},
+  author={Kirschbaum, Clemens and Pirke, Karl-Martin and Hellhammer, Dirk H},
+  journal={Neuropsychobiology},
+  volume={28},
+  number={1-2},
+  pages={76--81},
+  year={1993},
+  publisher={S. Karger AG Basel, Switzerland}
+}
+@article{wickens2008multiple,
+  title={Multiple resources and mental workload},
+  author={Wickens, Christopher D},
+  journal={Human factors},
+  volume={50},
+  number={3},
+  pages={449--455},
+  year={2008},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+@inproceedings{mackenzie2003phrase,
+  title={Phrase sets for evaluating text entry techniques},
+  author={MacKenzie, I Scott and Soukoreff, R William},
+  booktitle={CHI'03 extended abstracts on Human factors in computing systems},
+  pages={754--755},
+  year={2003}
+}
+@article{shallice1982specific,
+  title={Specific impairments of planning},
+  author={Shallice, Timothy},
+  journal={Philosophical Transactions of the Royal Society of London. B, Biological Sciences},
+  volume={298},
+  number={1089},
+  pages={199--209},
+  year={1982},
+  publisher={The Royal Society London}
+}
+@article{fitts1964information,
+  title={Information capacity of discrete motor responses.},
+  author={Fitts, Paul M and Peterson, James R},
+  journal={Journal of experimental psychology},
+  volume={67},
+  number={2},
+  pages={103},
+  year={1964},
+  publisher={American Psychological Association}
+}
+
+@article{lammert2020analysis,
+  title={Analysis of phonetic balance in standard English passages},
+  author={Lammert, Adam C and Melot, Jennifer and Sturim, Douglas E and Hannon, Daniel J and DeLaura, Richard and Williamson, James R and Ciccarelli, Gregory and Quatieri, Thomas F},
+  journal={Journal of Speech, Language, and Hearing Research},
+  volume={63},
+  number={4},
+  pages={917--930},
+  year={2020},
+  publisher={American Speech-Language-Hearing Association}
+}
+
+@article{fairbanks1940voice,
+  title={Voice and articulation drillbook},
+  author={Fairbanks, Grant},
+  journal={(No Title)},
+  year={1940}
+}
+
+@book{van1972speech,
+  title={Speech correction},
+  author={Van Riper, Charles},
+  year={1972},
+  publisher={Prentice-Hall New York}
+}
+@book{international1999handbook,
+  title={Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet},
+  author={International Phonetic Association},
+  year={1999},
+  publisher={Cambridge University Press}
+}
+
+@article{smith1967serial,
+  title={The serial sevens subtraction test},
+  author={Smith, Aaron},
+  journal={Archives of Neurology},
+  volume={17},
+  number={1},
+  pages={78--80},
+  year={1967},
+  publisher={American Medical Association}
+}
+
+@article{spielberger1971state,
+  title={The state-trait anxiety inventory},
+  author={Spielberger, Charles D and Gonzalez-Reigosa, Fernando and Martinez-Urrutia, Angel and Natalicio, Luiz FS and Natalicio, Diana S},
+  journal={Revista Interamericana de Psicologia/Interamerican journal of psychology},
+  volume={5},
+  number={3 \& 4},
+  year={1971}
+}
+
+@article{liszio2018relaxing,
+  title={The relaxing effect of virtual nature: immersive technology provides relief in acute stress situations},
+  author={Liszio, Stefan and Graf, Linda and Masuch, Maic},
+  journal={Annu. Rev. Cyberther. Telemed},
+  volume={16},
+  number={87-93},
+  pages={1},
+  year={2018}
+}
+@article{sarsenbayeva2018effect,
+  title={Effect of distinct ambient noise types on mobile interaction},
+  author={Sarsenbayeva, Zhanna and van Berkel, Niels and Velloso, Eduardo and Kostakos, Vassilis and Goncalves, Jorge},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={2},
+  number={2},
+  pages={1--23},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+}
+@article{goncalves2017tapping,
+  title={Tapping task performance on smartphones in cold temperature},
+  author={Goncalves, Jorge and Sarsenbayeva, Zhanna and van Berkel, Niels and Luo, Chu and Hosio, Simo and Risanen, Sirkka and Rintam{\"a}ki, Hannu and Kostakos, Vassilis},
+  journal={Interacting with Computers},
+  volume={29},
+  number={3},
+  pages={355--367},
+  year={2017},
+  publisher={Oxford University Press}
+}
+@inproceedings{gero2020mental,
+  title={Mental models of AI agents in a cooperative game setting},
+  author={Gero, Katy Ilonka and Ashktorab, Zahra and Dugan, Casey and Pan, Qian and Johnson, James and Geyer, Werner and Ruiz, Maria and Miller, Sarah and Millen, David R and Campbell, Murray and others},
+  booktitle={Proceedings of the 2020 chi conference on human factors in computing systems},
+  pages={1--12},
+  year={2020}
+}
+@inproceedings{sarsenbayeva2019effect,
+  title={Effect of ambient light on mobile interaction},
+  author={Sarsenbayeva, Zhanna and Van Berkel, Niels and Jiang, Weiwei and Hettiachchi, Danula and Kostakos, Vassilis and Goncalves, Jorge},
+  booktitle={IFIP Conference on Human-Computer Interaction},
+  pages={465--475},
+  year={2019},
+  organization={Springer}
+}
+
+@inproceedings{inproceedings,
+author = {Mcguire, Mollie and Bernkopf, Miroslav},
+year = {2023},
+month = {01},
+pages = {},
+title = {Stress and Motivation on Reliance Decisions with Automation},
+doi = {10.54941/ahfe1003579}
+}
+
+@inproceedings{mcguire2023StressMotivationReliance,
+  title = {Stress and {{Motivation}} on {{Reliance Decisions}} with {{Automation}}},
+  booktitle = {14th {{International Conference}} on {{Applied Human Factors}} and {{Ergonomics}} ({{AHFE}} 2023)},
+  author = {Mcguire, Mollie and Bernkopf, Miroslav},
+  year = 2023,
+  doi = {10.54941/ahfe1003579},
+  urldate = {2026-04-29},
+  abstract = {The decision to rely on automation is crucial in high-stress environments where there is an element of uncertainty. It is equally vital in human-automation partnership that the human's expectations of automation reliability are appropriately calibrated. Therefore, it is important to better understand reliance decisions with varying automation reliability. The current study examined the effects of stress and motivation on the decision to rely on autonomous partners. Participants were randomly assigned to a stress and motivation condition, using the Trier Social Stress Test (TSST) for stress induction, and monetary incentive for motivation. The main task was an iterative pattern learning task where one of two AI partners, one with high reliability and one with low reliability, gave advice at every iteration; the AI partner alternated every ten iterations. While motivation had a stronger effect than stress, both motivation and stress affected reliance decisions with the high reliability AI. The low reliability AI was affected to a lesser degree if at all. Overall, the decision to not rely on the AI partner, especially with the higher in reliability was slower than the decision to rely on the AI partner, with the slowest decision times occurring in the high stress condition with motivated participants, suggesting more deliberate processing was utilized when deciding against the advice of the AI higher in reliability.},
+  langid = {english}
+}
+
+
+@article{jiang2024immersive,
+  title={An immersive and interactive VR dataset to elicit emotions},
+  author={Jiang, Weiwei and Windl, Maximiliane and Tag, Benjamin and Sarsenbayeva, Zhanna and Mayer, Sven},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  volume={30},
+  number={11},
+  pages={7343--7353},
+  year={2024},
+  publisher={IEEE}
+}
+
+@article{johnson2018immersive,
+  title={Immersive VR and education: Embodied design principles that include gesture and hand controls},
+  author={Johnson-Glenberg, Mina C},
+  journal={Frontiers in Robotics and AI},
+  volume={5},
+  pages={375272},
+  year={2018},
+  publisher={Frontiers}
+}
+
+@article{liszio2019interactive,
+  title={Interactive immersive virtual environments cause relaxation and enhance resistance to acute stress},
+  author={Liszio, Stefan and Masuch, Maic},
+  journal={Annu Rev Cyberther Telemed},
+  volume={17},
+  pages={65--71},
+  year={2019}
+}
+
+
+@inproceedings{mikkelsen2025dof,
+  title={DOF-Separation for 3D Manipulation in XR: Understanding Finger-Wrist Separation to Simultaneously Translate and Rotate Objects},
+  author={Mikkelsen, Thorbj{\o}rn and Zhou, Qiushi and Lystb{\ae}k, Mathias N and Liu, Yang and Gellersen, Hans and Pfeuffer, Ken},
+  booktitle={2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)},
+  pages={1246--1256},
+  year={2025},
+  organization={IEEE}
+}
+@article{arnsten2009stress,
+  title={Stress signalling pathways that impair prefrontal cortex structure and function},
+  author={Arnsten, Amy FT},
+  journal={Nature reviews neuroscience},
+  volume={10},
+  number={6},
+  pages={410--422},
+  year={2009},
+  publisher={Nature Publishing Group UK London}
+}
+@article{starcke2016effects,
+  title={Effects of stress on decisions under uncertainty: A meta-analysis.},
+  author={Starcke, Katrin and Brand, Matthias},
+  journal={Psychological bulletin},
+  volume={142},
+  number={9},
+  pages={909},
+  year={2016},
+  publisher={American Psychological Association}
+}
+
+@article{qin2009acute,
+  title={Acute psychological stress reduces working memory-related activity in the dorsolateral prefrontal cortex},
+  author={Qin, Shaozheng and Hermans, Erno J and Van Marle, Hein JF and Luo, Jing and Fern{\'a}ndez, Guill{\'e}n},
+  journal={Biological psychiatry},
+  volume={66},
+  number={1},
+  pages={25--32},
+  year={2009},
+  publisher={Elsevier}
+}
+@article{starcke2012decision,
+  title={Decision making under stress: a selective review},
+  author={Starcke, Katrin and Brand, Matthias},
+  journal={Neuroscience \& Biobehavioral Reviews},
+  volume={36},
+  number={4},
+  pages={1228--1248},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{healey2005detecting,
+  title={Detecting stress during real-world driving tasks using physiological sensors},
+  author={Healey, Jennifer A and Picard, Rosalind W},
+  journal={IEEE Transactions on intelligent transportation systems},
+  volume={6},
+  number={2},
+  pages={156--166},
+  year={2005},
+  publisher={IEEE}
+}
+@inproceedings{sano2013stress,
+  title={Stress recognition using wearable sensors and mobile phones},
+  author={Sano, Akane and Picard, Rosalind W},
+  booktitle={2013 Humaine association conference on affective computing and intelligent interaction},
+  pages={671--676},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{banakou2018virtually,
+  title={Virtually being Einstein results in an improvement in cognitive task performance and a decrease in age bias},
+  author={Banakou, Domna and Kishore, Sameer and Slater, Mel},
+  journal={Frontiers in psychology},
+  volume={9},
+  pages={917},
+  year={2018},
+  publisher={Frontiers Media SA}
+}
