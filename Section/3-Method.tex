@@ -53,7 +53,7 @@ We report reading duration, mean fundamental frequency (F0), speech rate, and ac
 \subsubsection{Tower of London Task}
 We implemented a VR version of the Tower of London (ToL) task~\cite{shallice1982specific} to assess executive planning and sequential problem solving. Participants were presented with an initial arrangement of coloured balls across three pegs together with a target configuration shown nearby, and were instructed to reproduce the target configuration by moving balls between pegs, subject to the constraints that only one ball could be moved at a time and that pegs had limited capacity. Participants manipulated the balls using a pinch gesture~\cite{mikkelsen2025dof}, enabling embodied interaction without controllers. The Unity application logged object states, hand-tracking events from XR Hands, move sequences, and timestamps throughout the task. Each board contained three coloured balls (8~cm in diameter) and three pegs with capacities of three, two, and one ball; adjacent peg centres were separated by 25~cm, and the current and target boards were positioned approximately 60~cm apart. 
 
-To ensure consistent difficulty across rounds,the coloured balls and the pegs shows in random sequence and we used ToL problems with a uniform solution depth of six moves with one rollback structure across rounds, as problem difficulty in the Tower of London is known to depend on both minimum solution length and structural characteristics of the problem~\cite{kaller2004impact}. This design avoided ceiling effects from overly simple problems and floor effects or disproportionate variability from excessively difficult ones~\cite{kaller2012assessing}. 
+To ensure consistent difficulty across rounds, the coloured balls and the pegs were shown in random sequence and we used ToL problems with a uniform solution depth of six moves with one rollback structure across rounds, as problem difficulty in the Tower of London is known to depend on both minimum solution length and structural characteristics of the problem~\cite{kaller2004impact}. This design avoided ceiling effects from overly simple problems and floor effects or disproportionate variability from excessively difficult ones~\cite{kaller2012assessing}. 
 
 To minimise direct learning of specific configurations, we varied the spatial arrangement of balls and pegs across rounds while preserving structural difficulty, so participants encountered different instantiations rather than repeating identical layouts. This decision was also informed by pilot testing: with more repeated ToL rounds, repeated exposure substantially reduced errors over time, suggesting that learning effects could overshadow stress-related differences.
 
@@ -67,17 +67,16 @@ We recruited 26 participants from the university community. The final analysis i
 \begin{figure*}[!t]
     \centering
     \includegraphics[width=1\textwidth]{Figure/overview.png}
-    \caption{Experimental procedure. Abbreviations in the figure: Target Acq. = target acquisition; Speech prep. = speech preparation; Quest. = questionnaire.}
+    \caption{Experimental procedure. Abbreviations in the figure: Target Acq. = target acquisition; Speech prep. = speech preparation; Quest. = questionnaire. Round 1 is Post-Stress, and Round 2 is Post-Recovery Measurement.}
     \label{fig:procedure}
 \end{figure*}
-
-To induce stress, we adopted a VR adaptation of the Trier Social Stress Test (VR-TSST). The session comprised four stages: 1) briefing and training, 2) baseline, stress induction with post-stress measurement, and recovery---and lasted approximately 60--70~minutes per participant. An overview is shown in~\autoref{fig:procedure}.
+To induce stress, we adopted a VR adaptation of the Trier Social Stress Test (VR-TSST). The session comprised preparation and training, baseline measurement, VR-TSST stress induction, post-stress measurement, a 10-minute recovery period, and post-recovery measurement, and recovery---and lasted approximately 60--70~minutes per participant. An overview is shown in~\autoref{fig:procedure}.
 
 \subsubsection{Preparation and Training}
 The experiment took place in the human-centred computing laboratory of our institution. Upon arrival, participants were fitted with a Polar H10 chest strap for physiological data collection. Before fitting the strap, the electrode areas were moistened to improve skin contact, and the strap was positioned around the participant's chest according to the manufacturer's placement guidelines. The sensor was connected via Bluetooth to the recording application, which continuously logged heart-rate estimates and RR intervals throughout the experiment. We first introduced participants to the VR system and they completed a tutorial in which they practised direct finger selection for target acquisition task and pinch gestures for the ToL task. They also rehearsed the ToL rules using a simple example problem and were given a short rest before the formal study began.
 
 
-\subsubsection{Resting period}
+\subsubsection{Resting Period and Baseline Measurement}
 We then left participants alone for 20~minutes to rest and stabilise. During this time we provided them with neutral reading material to keep them occupied without inducing anxiety, as recommended in the TSST protocol~\cite{kirschbaum1993trier}. They subsequently completed the three VR tasks and filled in the STAI-S questionnaire~\cite{spielberger1971state}.
 
 \subsubsection{Stress Induction}
@@ -89,7 +88,7 @@ Immediately after the speech, participants performed a mental arithmetic task in
 Immediately after stress induction, participants completed the first post-stress measurement round, again performing the three VR tasks and filling in the STAI questionnaire. Task order differed from the baseline stage to reduce learning effects.
 
 \subsubsection{Recovery and Post-Recovery Measurement (Round 2)}
-Following the stress elicitation round, participants were given a 10~minute recovery period. To improve comfort and reduce headset fatigue, they need to remove the headset and rest quietly. After recovery, participants completed the second measurement round and filled in the STAI questionnaire.
+Following the post-stress measurement round, participants were given a 10~minute recovery period. To improve comfort and reduce headset fatigue, they were asked to remove the headset and rest quietly. After the recovery period, participants completed the second measurement round and filled in the STAI questionnaire. This round is referred to as Post-Recovery.
 
 \subsubsection{Participant Debriefing}
 Finally, we debriefed participants about the study, explained that experiencing stress during the experiment was expected, and clarified that the tasks were intentionally demanding and did not reflect participants' aptitude or ability. We also informed them that their performance had not been evaluated by a real judging panel. We then conducted a short semi-structured interview, asking participants to report their subjective perception of the experiment and the effect of stress on their performance.
