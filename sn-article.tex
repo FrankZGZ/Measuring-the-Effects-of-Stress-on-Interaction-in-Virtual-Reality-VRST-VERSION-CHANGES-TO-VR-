@@ -1,0 +1,80 @@
+%Version 3.1 December 2024 -- Springer Nature LaTeX template (sn-jnl)
+%% Reference style: sn-basic without "Numbered" = Springer Basic author-year citations,
+%% as required by Virtual Reality ("Cite references in the text by name and year in parentheses").
+\documentclass[pdflatex,sn-basic]{sn-jnl}
+
+\usepackage{graphicx}%
+\usepackage{multirow}%
+\usepackage{amsmath,amssymb,amsfonts}%
+\usepackage{amsthm}%
+\usepackage{mathrsfs}%
+\usepackage[title]{appendix}%
+\usepackage{xcolor}%
+\usepackage{textcomp}%
+\usepackage{manyfoot}%
+\usepackage{booktabs}%
+%% hyperref and natbib are loaded by sn-jnl.cls, so \autoref, \citet and \citep work without extra packages.
+
+\raggedbottom
+
+\begin{document}
+
+\title[Stress and Interaction in Virtual Reality]{Measuring the Effects of Stress on Interaction in Virtual Reality}
+
+%% Corresponding author is marked with \author*; change it if needed.
+\author[1]{\fnm{Guangzheng} \sur{Zhang}}\email{gzha0016@uni.sydney.edu.au}
+\author[1]{\fnm{Shakyani} \sur{Jayasiriwardene}}\email{djay0399@uni.sydney.edu.au}
+\author[1]{\fnm{Zheyuan} \sur{Kuang}}\email{zkua0021@uni.sydney.edu.au}
+\author[1]{\fnm{Tinghui} \sur{Li}}\email{tili4998@uni.sydney.edu.au}
+\author[2]{\fnm{Jonathan} \sur{Bird}}\email{j.m.bird@ucl.ac.uk}
+\author[3]{\fnm{Nicholas} \sur{Koemel}}\email{nicholas.koemel@sydney.edu.au}
+\author[3]{\fnm{Matthew} \sur{Ahmadi}}\email{matthew.ahmadi@sydney.edu.au}
+\author[2]{\fnm{Mark} \sur{Hamer}}\email{m.hamer@ucl.ac.uk}
+\author[3]{\fnm{Emmanuel} \sur{Stamatakis}}\email{emmanuel.stamatakis@sydney.edu.au}
+\author[4]{\fnm{Weiwei} \sur{Jiang}}\email{weiweijiangcn@gmail.com}
+\author[1]{\fnm{Anusha} \sur{Withana}}\email{anusha.withana@sydney.edu.au}
+\author*[1]{\fnm{Zhanna} \sur{Sarsenbayeva}}\email{zhanna.sarsenbayeva@sydney.edu.au}
+
+%% TODO: fill in each \orgdiv (school/department). [3] is a separate entry in case these co-authors are in a different school.
+\affil[1]{\orgdiv{School of Computer Science}, \orgname{The University of Sydney}, \orgaddress{\city{Sydney}, \state{NSW}, \country{Australia}}}
+\affil[2]{\orgdiv{XXX}, \orgname{University College London}, \orgaddress{\city{London}, \country{UK}}}
+\affil[3]{\orgdiv{XXX}, \orgname{The University of Sydney}, \orgaddress{\city{Sydney}, \state{NSW}, \country{Australia}}}
+\affil[4]{\orgdiv{XXX}, \orgname{Nanjing University of Information Science and Technology}, \orgaddress{\city{Nanjing}, \country{China}}}
+
+%% Journal limit: 150--250 words (this version: 234 words).
+\abstract{Acute stress can affect cognition and interaction performance, but it remains unclear whether stress acts as a general impairment in immersive interaction or whether its effects depend on the demands of the task. We investigated how acute stress influences three interaction tasks in virtual reality (VR): target acquisition, reading aloud, and the Tower of London. In a within-subject study, 24 participants (11 female, 13 male; aged 20--31 years) completed the tasks at baseline, after a VR-based Trier Social Stress Test (VR-TSST), and after a recovery period. Stress induction increased state anxiety and heart rate and reduced heart rate variability during the VR-TSST. In the subsequent task rounds, movement time, throughput, and endpoint offset in target acquisition did not differ across phases. In reading aloud, mean fundamental frequency rose by 5.55~Hz (about 3\%), whereas speech timing was unchanged. In the Tower of London task, planning measures were unchanged,  whereas execution time was shorter after induction. Although state anxiety remained elevated at the end of the post-stress round, heart rate during the VR tasks did not differ from the baseline round. These findings indicate that acute stress did not produce a general decline in VR interaction performance in the minutes after induction, that its behavioural traces were subtle, and that assessing stress in VR depends on what the user is doing when it is measured.}
+
+%% Journal limit: 4--6 keywords.
+\keywords{acute stress, virtual reality, situational impairments, target acquisition, reading aloud, Tower of London}
+
+\maketitle
+
+\input{Section/1-Introduction}
+\input{Section/2-RelatedWork}
+\input{Section/3-Method}
+\input{Section/4-Result}
+\input{Section/5-Discussion}
+\input{Section/6-Conclusion}
+
+\backmatter
+
+\bmhead{Acknowledgements}
+We thank all participants for taking part in the study.
+
+%% Required by the journal; submissions without these declarations are returned as incomplete. Replace every XXX.
+\section*{Declarations}
+
+\begin{itemize}
+\item \textbf{Funding:} XXX.
+\item \textbf{Competing interests:} The authors declare no competing interests.
+\item \textbf{Ethics approval:} The study was approved by the XXX Human Research Ethics Committee (project no.~XXX).
+\item \textbf{Consent to participate:} All participants provided informed consent prior to the experiment.
+\item \textbf{Consent for publication:} Not applicable.
+\item \textbf{Data availability:} XXX.
+\item \textbf{Code availability:} XXX.
+\item \textbf{Author contributions:} XXX.
+\end{itemize}
+
+\bibliography{main}% style is set by the sn-basic class option; do not add \bibliographystyle
+
+\end{document}
